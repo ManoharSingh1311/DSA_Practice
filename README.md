@@ -49,7 +49,7 @@ The repository is organized into folders based on different DSA topics. Each fol
 
 2. **Navigate to the Desired Topic Folder:**
    
-cd DSA_Practice/Arrays
+   ```cd DSA_Practice/Arrays```
 
    
 3. **Explore the Java Solutions**
@@ -65,7 +65,7 @@ Contributions are welcome! If you have any new problems, solutions, or improveme
  4. Push your branch to your forked repository.
  5. Open a pull request describing your changes.
 
-**Contact:**
+## Contact
 If you have any questions or suggestions, feel free to reach out:
 
 Email: [burathimannu@gmail.com]
