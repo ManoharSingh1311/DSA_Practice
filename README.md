@@ -54,20 +54,24 @@ cd DSA_Practice/Arrays
    
 3. **Explore the Java Solutions**
    Each problem is contained in a Java file with a name indicative of the problem. For example, ```TwoSum.java``` for the "Two Sum" problem.
-Contributing
+
+   
+4. **Contributing:**
 Contributions are welcome! If you have any new problems, solutions, or improvements, please follow these steps:
 
-4. **Fork the repository**
- 1. Create a new branch.
- 2. Add your changes and commit them.
- 3. Push your branch to your forked repository.
- 4. Open a pull request describing your changes.
+ 1. Fork the repository.
+ 2. Create a new branch.
+ 3. Add your changes and commit them.
+ 4. Push your branch to your forked repository.
+ 5. Open a pull request describing your changes.
 
 **Contact:**
 If you have any questions or suggestions, feel free to reach out:
 
 Email: [burathimannu@gmail.com]
+
 LinkedIn: [https://www.linkedin.com/in/manohar-singh-a50390222/]
+
 Thank you for visiting the DSA_Practice repository. Happy coding!
 
 ***Feel free to adjust the topics and content to match your specific needs and the structure of your repository.***
