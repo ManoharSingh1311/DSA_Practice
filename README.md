@@ -1,5 +1,3 @@
-# DSA_Practice
-
 # DSA_Practice Repository
 
 Welcome to the DSA_Practice repository! This repository is designed to help you master Data Structures and Algorithms (DSA) by providing a comprehensive collection of problems ranging from basic to advanced levels. Each problem is accompanied by a detailed Java solution to aid your understanding and practice.
