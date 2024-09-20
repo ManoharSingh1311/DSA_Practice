@@ -70,6 +70,6 @@ Email: [burathimannu@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/manohar-singh-a50390222/]
 
-Thank you for visiting the DSA_Practice repository. Happy coding!
+Thank you for visiting the DSA_Practice repository. Happy coding ❤️!
 
 ***Feel free to adjust the topics and content to match your specific needs and the structure of your repository.***
