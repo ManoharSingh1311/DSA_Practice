@@ -117,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Thanks to the algorithm and coding communities for providing these problems and solutions. Special thanks to [LeetCode](https://leetcode.com) and [HackerRank](https://hackerrank.com) for their excellent problem sets.
+Thanks to the algorithm and coding communities for providing these problems and solutions. Special thanks to [LeetCode](https://leetcode.com) and [HackerRank](https://hackerrank.com) for their excellent problem sets ❤️.
 
